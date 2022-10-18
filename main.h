@@ -10,7 +10,7 @@
  * @type_arg: identifier
  * @f: pointer to a printer function
  *
- * Description: struct that stores pointers to a 
+ * Description: struct that stores pointers to a
  * pointer function
  */
 typedef struct print
